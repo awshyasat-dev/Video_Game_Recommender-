@@ -1,0 +1,1 @@
+A simple Python-based video game recommender system that uses nested dictionaries and JSON data to store and manage game information. The program allows users to search, filter, and add games, and provides personalized recommendations based on shared genres using the Jaccard Similarity algorithm.
