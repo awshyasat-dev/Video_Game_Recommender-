@@ -1,0 +1,147 @@
+{
+    "The Witcher 3: Wild Hunt": {
+        "Genres": [
+            "RPG",
+            "Action",
+            "Open World"
+        ],
+        "Year": 2015,
+        "Metacritic": 93,
+        "Price": 39.99,
+        "Developer": "CD Projekt Red"
+    },
+    "Stardew Valley": {
+        "Genres": [
+            "Farming Sim",
+            "RPG",
+            "Indie"
+        ],
+        "Year": 2016,
+        "Metacritic": 89,
+        "Price": 14.99,
+        "Developer": "ConcernedApe"
+    },
+    "Hades": {
+        "Genres": [
+            "Action",
+            "Roguelike",
+            "Indie"
+        ],
+        "Year": 2020,
+        "Metacritic": 93,
+        "Price": 24.99,
+        "Developer": "Supergiant Games"
+    },
+    "The Legend of Zelda: Breath of the Wild": {
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Open World"
+        ],
+        "Year": 2017,
+        "Metacritic": 97,
+        "Price": 59.99,
+        "Developer": "Nintendo"
+    },
+    "Minecraft": {
+        "Genres": [
+            "Sandbox",
+            "Survival",
+            "Indie"
+        ],
+        "Year": 2011,
+        "Metacritic": 93,
+        "Price": 29.99,
+        "Developer": "Mojang"
+    },
+    "Portal 2": {
+        "Genres": [
+            "Puzzle",
+            "Sci-Fi",
+            "Action"
+        ],
+        "Year": 2011,
+        "Metacritic": 95,
+        "Price": 9.99,
+        "Developer": "Valve"
+    },
+    "Elden Ring": {
+        "Genres": [
+            "RPG",
+            "Action",
+            "Open World",
+            "Dark Fantasy"
+        ],
+        "Year": 2022,
+        "Metacritic": 96,
+        "Price": 59.99,
+        "Developer": "FromSoftware"
+    },
+    "Celeste": {
+        "Genres": [
+            "Platformer",
+            "Indie",
+            "Adventure"
+        ],
+        "Year": 2018,
+        "Metacritic": 92,
+        "Price": 19.99,
+        "Developer": "Extremely OK Games"
+    },
+    "Red Dead Redemption 2": {
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Open World"
+        ],
+        "Year": 2018,
+        "Metacritic": 97,
+        "Price": 59.99,
+        "Developer": "Rockstar Games"
+    },
+    "Hollow Knight": {
+        "Genres": [
+            "Metroidvania",
+            "Action",
+            "Indie"
+        ],
+        "Year": 2017,
+        "Metacritic": 90,
+        "Price": 14.99,
+        "Developer": "Team Cherry"
+    },
+    "Cyberpunk 2077": {
+        "Genres": [
+            "RPG",
+            "Action",
+            "Sci-Fi",
+            "Open World"
+        ],
+        "Year": 2020,
+        "Metacritic": 86,
+        "Price": 59.99,
+        "Developer": "CD Projekt Red"
+    },
+    "Grand Theft Auto V": {
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Open World"
+        ],
+        "Year": 2013,
+        "Metacritic": 97,
+        "Price": 29.99,
+        "Developer": "Rockstar North"
+    },
+    "Baldur's Gate 3": {
+        "Genres": [
+            "RPG",
+            "Strategy",
+            "Adventure"
+        ],
+        "Year": 2023,
+        "Metacritic": 96,
+        "Price": 59.99,
+        "Developer": "Larian Studios"
+    }
+}
